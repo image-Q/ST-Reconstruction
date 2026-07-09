@@ -135,10 +135,7 @@ Compared with the original DP-QP method:
     │   ├── figure_4.png
     │   ├── figure_5.png
     │   └── figure_6.png
-    ├── MATLAB
-    ├── Simulink
-    ├── CarSim
-    └── results
+    └── Simulink
 
 ------------------------------------------------------------------------
 
