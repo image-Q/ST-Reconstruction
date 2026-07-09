@@ -79,15 +79,15 @@ The validation platform is built with:
 -   Control module
 -   Closed-loop vehicle feedback
 
-Simulation parameters:
+### Simulation Parameters
 
-  Parameter            Value
-  -------------------- ---------
-  Planning frequency   10 Hz
-  Control frequency    100 Hz
-  CarSim integration   1000 Hz
-  Prediction horizon   8 s
-  ST resolution        0.1 s
+| Parameter | Value |
+|:---------:|:-----:|
+| Planning frequency | 10 Hz |
+| Control frequency | 100 Hz |
+| CarSim integration | 1000 Hz |
+| Prediction horizon | 8 s |
+| ST resolution | 0.1 s |
 
 ------------------------------------------------------------------------
 
